@@ -4,7 +4,7 @@ clearvars;
 clc;
 %% dimension of testing problem
 % size of matrix
-m = 100;
+m = 200;
 n = m;
 
 % rank of matrix
